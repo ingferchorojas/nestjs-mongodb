@@ -26,7 +26,7 @@ Este es un proyecto de aplicación backend construido con NestJS y MongoDB que i
     ```
 Asegúrate de completar los siguientes campos en el archivo .env:
     
-    ```json
+    ```bash
     MONGODB_URI=tu_uri_de_mongodb
     JWT_SECRET=tu_secreto_jwt
     PORT=3000
