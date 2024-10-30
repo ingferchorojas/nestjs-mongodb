@@ -12,6 +12,8 @@ Este es un proyecto de aplicación backend construido con NestJS y MongoDB que i
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu_usuario/nestjs-mongodb.git
+   ```
+   ```bash
    cd nestjs-mongodb
    ```
 2. Instala las dependencias:
@@ -54,9 +56,5 @@ Para obtener la lista de usuarios, envía una solicitud GET a /users con el toke
  ```bash
  Authorization: Bearer tu_token_jwt
  ```
-
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, siéntete libre de enviar un pull request.
-
 ## Licencia
 Este proyecto está licenciado bajo la MIT License.
