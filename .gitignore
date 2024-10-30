@@ -1,0 +1,24 @@
+# Dependencias de Node
+node_modules/
+
+# Archivos de configuración de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+
+# Archivos de salida de TypeScript
+dist/
+build/
+
+# Archivos de registro
+*.log
+
+# Configuraciones de IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos de prueba
+coverage/
