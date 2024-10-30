@@ -24,7 +24,7 @@ Este es un proyecto de aplicación backend construido con NestJS y MongoDB que i
     ```bash
     cp .env.example .env
     ```
-Asegúrate de completar los siguientes campos en el archivo .env:
+4. Asegúrate de completar los siguientes campos en el archivo .env:
     
     ```bash
     MONGODB_URI=tu_uri_de_mongodb
